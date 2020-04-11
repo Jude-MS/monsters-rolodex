@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jude-MS.github.io/monsters-rolodex/static/css/main.fa7eed69.chunk.css",
+    "main.js": "/Jude-MS.github.io/monsters-rolodex/static/js/main.cedc5e44.chunk.js",
+    "main.js.map": "/Jude-MS.github.io/monsters-rolodex/static/js/main.cedc5e44.chunk.js.map",
+    "runtime-main.js": "/Jude-MS.github.io/monsters-rolodex/static/js/runtime-main.c7fca23f.js",
+    "runtime-main.js.map": "/Jude-MS.github.io/monsters-rolodex/static/js/runtime-main.c7fca23f.js.map",
+    "static/js/2.7aaef059.chunk.js": "/Jude-MS.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/Jude-MS.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/Jude-MS.github.io/monsters-rolodex/index.html",
+    "precache-manifest.e866c6df1ed5656776d9d44cf807d070.js": "/Jude-MS.github.io/monsters-rolodex/precache-manifest.e866c6df1ed5656776d9d44cf807d070.js",
+    "service-worker.js": "/Jude-MS.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.fa7eed69.chunk.css.map": "/Jude-MS.github.io/monsters-rolodex/static/css/main.fa7eed69.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/Jude-MS.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7fca23f.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.fa7eed69.chunk.css",
+    "static/js/main.cedc5e44.chunk.js"
+  ]
+}
